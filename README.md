@@ -1,0 +1,1 @@
+# scolarship-finder
