@@ -12,7 +12,10 @@
   "dependencies": {
     "@reduxjs/toolkit": "^2.6.0",
     "axios": "^1.8.1",
+<<<<<<< HEAD:client/package.json
     "bcrypt": "^5.1.1",
+=======
+>>>>>>> 219a123 (new changes):package.json
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-redux": "^9.2.0",
